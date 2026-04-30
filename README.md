@@ -67,7 +67,7 @@ This repository contains all required assignment deliverables:
 A rewritten, original long-form article based on the reviewed papers, with additional interpretation, diagrams, comparisons, and takeaways.
 
 **Medium link:**  
-`<ADD_MEDIUM_LINK_HERE>`
+`https://medium.com/@vineeth.kandukuri/time-series-foundation-models-are-exciting-but-are-they-really-foundational-fdef06217325`
 
 ### 2. Slide Deck
 A presentation summarizing the short story, architecture ideas, benchmarks, ablation-style observations, and final conclusions.
