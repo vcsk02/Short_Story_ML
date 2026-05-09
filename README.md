@@ -94,7 +94,7 @@ A small reproduction / benchmarking setup inspired by the AutoResearch template,
 A spreadsheet containing experiment tracking, summaries, or submission-related references.
 
 **Spreadsheet link:**  
-`<ADD_SPREADSHEET_LINK_HERE>`
+`https://docs.google.com/spreadsheets/d/1AOqs_g-P1XRYLIRxxnrXVo8DsC-cn3bz/edit?usp=sharing&ouid=114838902492320327270&rtpof=true&sd=true`
 
 ---
 
