@@ -73,7 +73,7 @@ https://medium.com/@vineeth.kandukuri/time-series-foundation-models-are-exciting
 A presentation summarizing the short story, architecture ideas, benchmarks, ablation-style observations, and final conclusions.
 
 **Slideshare link:**  
-`<ADD_SLIDESHARE_LINK_HERE>`
+`https://docs.google.com/presentation/d/1EmTSOv2pqnBvulBXbX3nIMhqmxGXJlyg/edit?usp=sharing&ouid=114838902492320327270&rtpof=true&sd=true`
 
 **PDF / PPT in repo:**  
 `slides/`
