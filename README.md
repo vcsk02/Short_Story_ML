@@ -82,7 +82,7 @@ A presentation summarizing the short story, architecture ideas, benchmarks, abla
 A 15–25 minute recorded explanation of the short story and slide deck.
 
 **YouTube link:**  
-`<ADD_YOUTUBE_LINK_HERE>`
+`https://youtu.be/J6dIXRf9Z4o`
 
 ### 4. Experimental Reproduction
 A small reproduction / benchmarking setup inspired by the AutoResearch template, comparing forecasting baselines and foundation-model-style approaches under clean evaluation settings.
