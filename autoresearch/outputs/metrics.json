@@ -1,0 +1,38 @@
+[
+  {
+    "model": "Naive Last Value",
+    "MAE": 2.5912108337758895,
+    "RMSE": 3.290450706569428,
+    "MAPE": 28.165214543996374
+  },
+  {
+    "model": "Moving Average",
+    "MAE": 2.100800394507245,
+    "RMSE": 2.6858132234519307,
+    "MAPE": 22.843994281070376
+  },
+  {
+    "model": "Seasonal Naive",
+    "MAE": 2.911046202867764,
+    "RMSE": 3.6875888064591886,
+    "MAPE": 31.932517537550954
+  },
+  {
+    "model": "Ridge Window Regressor",
+    "MAE": 1.9832170077709415,
+    "RMSE": 2.5641889675771403,
+    "MAPE": 22.0310453405856
+  },
+  {
+    "model": "Random Forest Window Regressor",
+    "MAE": 1.95486506522547,
+    "RMSE": 2.5337474964184845,
+    "MAPE": 21.905599039526226
+  },
+  {
+    "model": "Patch-Feature Ridge TSFM-Style Proxy",
+    "MAE": 1.9915342062816646,
+    "RMSE": 2.5650769029956386,
+    "MAPE": 22.140723134335715
+  }
+]

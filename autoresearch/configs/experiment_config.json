@@ -1,0 +1,14 @@
+{
+  "project_name": "CMPE258_TSFMs_Clean_Evaluation",
+  "dataset_path": "autoresearch/datasets/daily_min_temperatures.csv",
+  "date_column": "Date",
+  "value_column": "Temp",
+  "input_window": 60,
+  "forecast_horizon": 7,
+  "train_fraction": 0.70,
+  "validation_fraction": 0.15,
+  "test_fraction": 0.15,
+  "moving_average_window": 7,
+  "seasonal_lag": 365,
+  "random_seed": 42
+}

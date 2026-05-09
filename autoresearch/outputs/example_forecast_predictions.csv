@@ -1,0 +1,8 @@
+date,actual,prediction,model
+1989-07-06,7.0,7.016611298612328,Random Forest Window Regressor
+1989-07-07,6.2,7.061685662007924,Random Forest Window Regressor
+1989-07-08,7.0,7.051759812591226,Random Forest Window Regressor
+1989-07-09,9.7,6.998924950716529,Random Forest Window Regressor
+1989-07-10,8.0,7.094166547791723,Random Forest Window Regressor
+1989-07-11,8.5,7.141989122345898,Random Forest Window Regressor
+1989-07-12,7.1,7.033360459866461,Random Forest Window Regressor

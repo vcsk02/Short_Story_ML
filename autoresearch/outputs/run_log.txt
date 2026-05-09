@@ -1,0 +1,14 @@
+Project: CMPE258_TSFMs_Clean_Evaluation
+Dataset rows: 3650
+Supervised examples: 3584
+Train examples: 2508
+Test examples: 538
+
+Final results:
+                               model      MAE     RMSE      MAPE
+      Random Forest Window Regressor 1.954865 2.533747 21.905599
+              Ridge Window Regressor 1.983217 2.564189 22.031045
+Patch-Feature Ridge TSFM-Style Proxy 1.991534 2.565077 22.140723
+                      Moving Average 2.100800 2.685813 22.843994
+                    Naive Last Value 2.591211 3.290451 28.165215
+                      Seasonal Naive 2.911046 3.687589 31.932518
